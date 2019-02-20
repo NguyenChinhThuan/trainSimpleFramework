@@ -1,0 +1,4 @@
+org.simpleframework.http.ConnectionTest$Pinger
+org.simpleframework.http.ConnectionTest
+org.simpleframework.http.ConnectionTest$PingServer
+org.simpleframework.http.ConnectionTest$DebugServer

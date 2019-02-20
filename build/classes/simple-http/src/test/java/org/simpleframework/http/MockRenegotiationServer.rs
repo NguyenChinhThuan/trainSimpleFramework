@@ -1,0 +1,11 @@
+org.simpleframework.http.MockRenegotiationServer$ConsoleAgent
+org.simpleframework.http.MockRenegotiationServer$ConfigurableCertificateServer
+org.simpleframework.http.MockRenegotiationServer$1
+org.simpleframework.http.MockRenegotiationServer$KeyStoreManager
+org.simpleframework.http.MockRenegotiationServer$ConsoleAgent$1
+org.simpleframework.http.MockRenegotiationServer$TransportGrabber
+org.simpleframework.http.MockRenegotiationServer$SecureSocketContext
+org.simpleframework.http.MockRenegotiationServer$KeyStoreType
+org.simpleframework.http.MockRenegotiationServer$KeyStoreReader
+org.simpleframework.http.MockRenegotiationServer$SecureProtocol
+org.simpleframework.http.MockRenegotiationServer

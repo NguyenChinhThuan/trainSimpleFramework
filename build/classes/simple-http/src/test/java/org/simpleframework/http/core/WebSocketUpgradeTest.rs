@@ -1,0 +1,2 @@
+org.simpleframework.http.core.WebSocketUpgradeTest$MockChannel
+org.simpleframework.http.core.WebSocketUpgradeTest

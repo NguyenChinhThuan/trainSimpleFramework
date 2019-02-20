@@ -1,0 +1,1 @@
+org.simpleframework.http.socket.table.WebSocketTableUpdateType

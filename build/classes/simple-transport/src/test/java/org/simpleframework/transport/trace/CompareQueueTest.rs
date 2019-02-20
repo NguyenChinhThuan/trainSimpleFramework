@@ -1,0 +1,4 @@
+org.simpleframework.transport.trace.CompareQueueTest$Producer
+org.simpleframework.transport.trace.CompareQueueTest$ConcurrentConsumer
+org.simpleframework.transport.trace.CompareQueueTest$BlockingConsumer
+org.simpleframework.transport.trace.CompareQueueTest

@@ -1,0 +1,3 @@
+org.simpleframework.transport.NegotiationState
+org.simpleframework.transport.NegotiationState$Delegate
+org.simpleframework.transport.NegotiationState$Challenge

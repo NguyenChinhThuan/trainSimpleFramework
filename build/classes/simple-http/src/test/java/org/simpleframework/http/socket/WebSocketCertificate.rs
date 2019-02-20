@@ -1,0 +1,6 @@
+org.simpleframework.http.socket.WebSocketCertificate
+org.simpleframework.http.socket.WebSocketCertificate$KeyStoreManager
+org.simpleframework.http.socket.WebSocketCertificate$KeyStoreType
+org.simpleframework.http.socket.WebSocketCertificate$KeyStoreReader
+org.simpleframework.http.socket.WebSocketCertificate$SecureProtocol
+org.simpleframework.http.socket.WebSocketCertificate$AnonymousTrustManager

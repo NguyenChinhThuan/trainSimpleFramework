@@ -1,0 +1,2 @@
+org.simpleframework.http.socket.WebSocketChatRoomListener$CertificateUserExtractor
+org.simpleframework.http.socket.WebSocketChatRoomListener
